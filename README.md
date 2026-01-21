@@ -47,3 +47,7 @@ The PoC demonstrates how unvalidated input is processed by the server.
 ## Notes
 This repository is intended for educational and security research
 purposes only.
+
+Author: Muhammadrasul Zohidjonov
+CVE: CVE-2025-66902
+
