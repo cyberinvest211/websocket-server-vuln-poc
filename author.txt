@@ -1,0 +1,13 @@
+Author / Vulnerability Discoverer
+
+Name: Muhammadrasul Zohidjonov
+GitHub: https://github.com/cyberinvest211
+
+Associated Vulnerability:
+CVE-2025-66902
+
+Project:
+websocket-server 0.6.4 — Input Validation Issue
+
+Role:
+Original discoverer and proof-of-concept author
